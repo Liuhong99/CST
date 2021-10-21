@@ -1,4 +1,4 @@
-# EAML
+# CST
 Code release for "Cycle Self-Training for Domain Adaptation" (NeurIPS 2021)
 
 ## Prerequisites
